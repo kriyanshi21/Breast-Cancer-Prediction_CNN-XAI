@@ -1,0 +1,27 @@
+# Python
+pycache/
+*.pyc
+venv/
+*.env
+backend/model.h5
+
+Node.js
+
+frontend/node_modules/
+frontend/build/
+
+Docker
+
+*.log
+*.tar.gz
+
+Data and images
+
+data/
+*.jpg
+*.png
+
+macOS
+
+.DS_Store
+*.swp
