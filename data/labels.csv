@@ -1,0 +1,5 @@
+filename,label
+benign/benign1.png,benign
+malignant/malignant1.png,malignant
+normal/normal1.png,normal
+...
